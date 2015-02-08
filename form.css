@@ -1,0 +1,16 @@
+input{
+	padding: 5px;
+	font-size: 2em;
+	font-family: "Helvetica", sans-serif;
+}
+.button{
+	padding:10px 12px;
+	border:1px solid black;
+	background-color:#fce8bc;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 5px;
+}
+.button:hover{
+	margin:2px 0 0 2px;
+}

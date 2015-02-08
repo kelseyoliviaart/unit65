@@ -1,0 +1,55 @@
+body{
+	background-color: #8ff8c5;
+}
+.Header {
+	text-align: center;
+	background-color: #f2c0f8;
+	width: 100%;
+}
+.Nav{
+	background-image: url("../images/glitter.png");
+	width: 100%;
+	height: 75px;
+	margin: 0 auto;
+}
+.Tab{
+	list-style: none;
+	display: inline-block;
+	border: 1px solid #f7c251;
+	padding: 10px;
+	margin: 15px;
+	background-color: #f2c0f8;
+}
+.sherbet{
+	width:100%;
+	height: 75px; 
+	background-color: #fce8bc;
+}
+.left{
+	float:left;
+	width:50%;
+}
+.rightcolumn{
+	float: left;
+	width: 50%;
+}
+.social{
+	width:100%;
+	float: left;
+}
+.series{
+	float:left;
+	width:25%;
+}
+.center img{
+	width: 500px;
+	height: 300px;
+}
+.center{
+	float:left;
+	width: 50%;
+}
+.description{
+	float:left;
+	width: 25%;
+}
