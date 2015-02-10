@@ -42,11 +42,14 @@ body{
 }
 .series{
 	float:left;
-	width:25%;
+	width:20%;
+	padding-top: 25px;
+	padding-left: 25px;
 }
 .center img{
 	width: 500px;
 	height: 300px;
+	padding-top: 25px;
 }
 .center{
 	float:left;
@@ -55,6 +58,7 @@ body{
 .description{
 	float:left;
 	width: 25%;
+	padding-top: 25px;
 }
 .gallery{
 	float:left;
